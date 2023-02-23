@@ -1,0 +1,13 @@
+C:\Users\lillian.thompson\source\repos\helloworld_lillianthompson\helloworld_lillianthompson\obj\Debug\netcoreapp3.1\helloworld_lillianthompson.csproj.AssemblyReference.cache
+C:\Users\lillian.thompson\source\repos\helloworld_lillianthompson\helloworld_lillianthompson\obj\Debug\netcoreapp3.1\helloworld_lillianthompson.AssemblyInfoInputs.cache
+C:\Users\lillian.thompson\source\repos\helloworld_lillianthompson\helloworld_lillianthompson\obj\Debug\netcoreapp3.1\helloworld_lillianthompson.AssemblyInfo.cs
+C:\Users\lillian.thompson\source\repos\helloworld_lillianthompson\helloworld_lillianthompson\obj\Debug\netcoreapp3.1\helloworld_lillianthompson.csproj.CoreCompileInputs.cache
+C:\Users\lillian.thompson\source\repos\helloworld_lillianthompson\helloworld_lillianthompson\bin\Debug\netcoreapp3.1\helloworld_lillianthompson.exe
+C:\Users\lillian.thompson\source\repos\helloworld_lillianthompson\helloworld_lillianthompson\bin\Debug\netcoreapp3.1\helloworld_lillianthompson.deps.json
+C:\Users\lillian.thompson\source\repos\helloworld_lillianthompson\helloworld_lillianthompson\bin\Debug\netcoreapp3.1\helloworld_lillianthompson.runtimeconfig.json
+C:\Users\lillian.thompson\source\repos\helloworld_lillianthompson\helloworld_lillianthompson\bin\Debug\netcoreapp3.1\helloworld_lillianthompson.runtimeconfig.dev.json
+C:\Users\lillian.thompson\source\repos\helloworld_lillianthompson\helloworld_lillianthompson\bin\Debug\netcoreapp3.1\helloworld_lillianthompson.dll
+C:\Users\lillian.thompson\source\repos\helloworld_lillianthompson\helloworld_lillianthompson\bin\Debug\netcoreapp3.1\helloworld_lillianthompson.pdb
+C:\Users\lillian.thompson\source\repos\helloworld_lillianthompson\helloworld_lillianthompson\obj\Debug\netcoreapp3.1\helloworld_lillianthompson.dll
+C:\Users\lillian.thompson\source\repos\helloworld_lillianthompson\helloworld_lillianthompson\obj\Debug\netcoreapp3.1\helloworld_lillianthompson.pdb
+C:\Users\lillian.thompson\source\repos\helloworld_lillianthompson\helloworld_lillianthompson\obj\Debug\netcoreapp3.1\helloworld_lillianthompson.genruntimeconfig.cache
